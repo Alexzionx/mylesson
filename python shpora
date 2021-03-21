@@ -1,0 +1,9 @@
+_____silenuim exemple
+from selenium import webdriver
+driver = webdriver.Firefox(executable_path='твой/путь/к/geckodriver.exe')
+driver.get('http://google.com')
+----------------------
+
+_____geckodriver
+https://github.com/mozilla/geckodriver/releases/
+----------------------
