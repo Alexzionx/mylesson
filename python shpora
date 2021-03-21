@@ -7,3 +7,7 @@ driver.get('http://google.com')
 _____geckodriver
 https://github.com/mozilla/geckodriver/releases/
 ----------------------
+
+_____geckodriver инструкция по установке
+https://selenium-python.com/install-geckodriver
+----------------------
